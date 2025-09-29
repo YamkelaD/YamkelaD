@@ -1,10 +1,10 @@
-## Hi, I'm Yamkela!
+# Hi, I'm Yamkela!
 
 👩🏾‍💻 Software Developer who enjoys problem-solving and building real word solutions <br/>
 👩🏾‍🎓 Studied Software Development at Nelson Mandela University, South Africa <br/>
 💭 Currently working towards improving my abilities and creating more projects <br/>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yamkela-dlamini) 
 
 # 💻 Tech Stack:
